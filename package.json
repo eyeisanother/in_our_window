@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "@supabase/supabase-js": "^2.49.3",
-    "uuid": "^11.1.0"
-  }
-}
